@@ -1,0 +1,1 @@
+I needed a way to practice hacking wireless networks without fear of bringing down an actual network. I decided to create a Raspberry Pi router using a Raspberry Pi 4B. I used Open WRT for the operating system on the Pi. Creating this would allow me to input any wireless network available and output it to an SSID of my creation. 
